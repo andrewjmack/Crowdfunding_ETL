@@ -6,3 +6,5 @@ A collaborative extract-transform-load ("ETL") mini project, which involved buil
 
 ## Resources
 
+Reference for merging three dataframes:
+https://stackoverflow.com/questions/23668427/pandas-three-way-joining-multiple-dataframes-on-columns
