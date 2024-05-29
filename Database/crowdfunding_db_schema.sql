@@ -1,5 +1,8 @@
 -- Schema for project 2: crowdfunding ETL
 
+-- create database
+CREATE DATABASE crowdfunding_db;
+
 -- Drop table code provided for convenience if table recreation is needed:
 -- DROP TABLE
 --     category,
